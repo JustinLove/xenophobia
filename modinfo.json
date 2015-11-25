@@ -1,15 +1,15 @@
 {
   "author": "wondible",
   "build": "89755",
-  "category": ["units", "framework"],
+  "category": ["units", "framework", "titans"],
   "context": "server",
   "date": "2015/11/25",
   "description": "Server mod support. Shadows many units to not build CustomX units.",
   "display_name": "Xenophobia",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-server-xenophobia.70985/",
   "identifier": "com.wondible.pa.xenophobia",
   "priority": 150,
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 

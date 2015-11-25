@@ -2,6 +2,8 @@
 
 Server mod support. Shadows many units to not build CustomX units.
 
+Titans variants, so the base commander has orbital vision.
+
 ## Development
 
 The generated project includes a `package.json` that lists the dependencies, but you'll need to run `npm install` to download them.
